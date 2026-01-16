@@ -8201,7 +8201,7 @@ At the start of the Declare Battle Formations step, you can select one SISTERS O
             </entryLink>
           </entryLinks>
           <selectionEntryGroups>
-            <selectionEntryGroup name="Turret weapon" id="bac1-e5f9-6035-d77a" hidden="false" defaultSelectionEntryId="3661-576a-2df7-506e">
+            <selectionEntryGroup name="Turret weapon" id="bac1-e5f9-6035-d77a" hidden="false" defaultSelectionEntryId="19b7-6386-4bb6-64b1">
               <constraints>
                 <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="dc02-8dae-16d9-046d-min" includeChildSelections="false"/>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="dc02-8dae-16d9-046d-max" includeChildSelections="false"/>
@@ -8961,7 +8961,7 @@ At the start of the Declare Battle Formations step, you can select one SISTERS O
             </selectionEntry>
           </selectionEntries>
           <selectionEntryGroups>
-            <selectionEntryGroup name="Centreline weapon" id="ad85-69a3-97af-48d5" hidden="false" publicationId="4115-3627-e608-39f6" page="19" defaultSelectionEntryId="a53b-f93b-5136-1fb1">
+            <selectionEntryGroup name="Centreline weapon" id="ad85-69a3-97af-48d5" hidden="false" publicationId="4115-3627-e608-39f6" page="19" defaultSelectionEntryId="dbfb-a0f3-e4b6-0dfd">
               <selectionEntries>
                 <selectionEntry type="upgrade" import="true" name="Twin assault cannon" hidden="false" id="dbfb-a0f3-e4b6-0dfd" publicationId="4115-3627-e608-39f6" page="19">
                   <constraints>
@@ -9018,7 +9018,7 @@ At the start of the Declare Battle Formations step, you can select one SISTERS O
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="f9a1-8bb4-2784-c88c"/>
               </constraints>
             </selectionEntryGroup>
-            <selectionEntryGroup name="Missile choice" id="96d3-cc3b-433c-fb4f" hidden="false" publicationId="4115-3627-e608-39f6" page="19" defaultSelectionEntryId="659f-cdb6-c687-5096">
+            <selectionEntryGroup name="Missile choice" id="96d3-cc3b-433c-fb4f" hidden="false" publicationId="4115-3627-e608-39f6" page="19" defaultSelectionEntryId="bb47-b401-917e-a7be">
               <selectionEntries>
                 <selectionEntry type="upgrade" import="true" name="2 Blackstar rocket launchers" hidden="false" id="bb47-b401-917e-a7be">
                   <selectionEntries>
@@ -9855,7 +9855,7 @@ At the start of the Declare Battle Formations step, you can select one SISTERS O
         <categoryLink name="Deathwatch" hidden="false" id="dfcd-a63e-47d8-1999" targetId="357e-615e-5313-2ac2" primary="false"/>
       </categoryLinks>
       <selectionEntryGroups>
-        <selectionEntryGroup name="Deathwatch Terminators" id="19c2-4e30-0044-49ac" hidden="false" publicationId="4115-3627-e608-39f6" page="15" defaultSelectionEntryId="45fa-9a7-8352-362e" sortIndex="3">
+        <selectionEntryGroup name="Deathwatch Terminators" id="19c2-4e30-0044-49ac" hidden="false" publicationId="4115-3627-e608-39f6" page="15" defaultSelectionEntryId="84c2-9a90-eefd-881b" sortIndex="3">
           <selectionEntries>
             <selectionEntry type="model" import="true" name="Deathwatch Terminator" hidden="false" id="84c2-9a90-eefd-881b">
               <profiles>
@@ -10017,7 +10017,7 @@ At the start of the Declare Battle Formations step, you can select one SISTERS O
             <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="51e3-a0fb-4968-e6c9"/>
           </constraints>
           <selectionEntryGroups>
-            <selectionEntryGroup name="Terminator Weapons" id="4a6a-3ff2-5307-ca55" hidden="false" defaultSelectionEntryId="ad9-d7f5-59b8-cd0d">
+            <selectionEntryGroup name="Terminator Weapons" id="4a6a-3ff2-5307-ca55" hidden="false" defaultSelectionEntryId="5e57-9fe0-7609-5b43">
               <selectionEntries>
                 <selectionEntry type="upgrade" import="true" name="Power fist &amp; storm bolter" hidden="false" id="5e57-9fe0-7609-5b43" publicationId="4115-3627-e608-39f6" page="16">
                   <constraints>
@@ -10300,7 +10300,7 @@ At the start of the Declare Battle Formations step, you can select one SISTERS O
                     </entryLink>
                   </entryLinks>
                   <selectionEntryGroups>
-                    <selectionEntryGroup name="Weapon Option" id="22f4-561e-d348-822c" hidden="false" defaultSelectionEntryId="493c-33a4-8f22-690b">
+                    <selectionEntryGroup name="Weapon Option" id="22f4-561e-d348-822c" hidden="false" defaultSelectionEntryId="55e4-ab4b-a3e2-5715">
                       <constraints>
                         <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="43da-f9c9-3041-77c1"/>
                         <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="980c-9dbd-c825-1e20"/>
@@ -10446,7 +10446,7 @@ At the start of the Declare Battle Formations step, you can select one SISTERS O
                     </entryLink>
                   </entryLinks>
                   <selectionEntryGroups>
-                    <selectionEntryGroup name="Melee Option" id="5aa1-f527-0d3b-ee76" hidden="false" defaultSelectionEntryId="9739-690c-a7a0-2179">
+                    <selectionEntryGroup name="Melee Option" id="5aa1-f527-0d3b-ee76" hidden="false" defaultSelectionEntryId="0cb4-f20b-0f80-5da5">
                       <entryLinks>
                         <entryLink import="true" name="Close combat weapon" hidden="false" id="0cb4-f20b-0f80-5da5" type="selectionEntry" targetId="d831-660c-e45b-6b30" collective="true">
                           <constraints>
@@ -12378,7 +12378,7 @@ At the start of the Declare Battle Formations step, you can select one SISTERS O
                     </modifier>
                   </modifiers>
                   <selectionEntryGroups>
-                    <selectionEntryGroup name="Terminator Weapons" id="0b2e-b07e-c906-f05d" hidden="false" defaultSelectionEntryId="ad9-d7f5-59b8-cd0d">
+                    <selectionEntryGroup name="Terminator Weapons" id="0b2e-b07e-c906-f05d" hidden="false" defaultSelectionEntryId="2b20-2099-5bf8-a277">
                       <selectionEntries>
                         <selectionEntry type="upgrade" import="true" name="Power fist &amp; storm bolter" hidden="false" id="2b20-2099-5bf8-a277" publicationId="4115-3627-e608-39f6" page="16">
                           <constraints>
@@ -12542,7 +12542,7 @@ At the start of the Declare Battle Formations step, you can select one SISTERS O
                     </profile>
                   </profiles>
                   <selectionEntryGroups>
-                    <selectionEntryGroup name="Terminator Heavy Weapons" id="690e-9b37-0f5f-ef86" hidden="false" defaultSelectionEntryId="8259-a28d-949-b4fa">
+                    <selectionEntryGroup name="Terminator Heavy Weapons" id="690e-9b37-0f5f-ef86" hidden="false" defaultSelectionEntryId="082e-c728-6edb-f9bd">
                       <constraints>
                         <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="e67b-20d4-7784-1e77"/>
                         <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1fc-dd9b-e394-8817"/>
@@ -16289,7 +16289,7 @@ At the start of the Declare Battle Formations step, you can select one SISTERS O
         </entryLink>
       </entryLinks>
       <selectionEntryGroups>
-        <selectionEntryGroup name="Weapon" id="d68c-6a7f-eb5a-546a" hidden="false" defaultSelectionEntryId="266d-3fb4-da16-8f29">
+        <selectionEntryGroup name="Weapon" id="d68c-6a7f-eb5a-546a" hidden="false" defaultSelectionEntryId="10f4-78f1-477b-ef6e">
           <constraints>
             <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="97cc-8f6a-129e-7000-min" includeChildSelections="false"/>
             <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="97cc-8f6a-129e-7000-max" includeChildSelections="false"/>
@@ -16520,7 +16520,7 @@ At the start of the Declare Battle Formations step, you can select one SISTERS O
         </profile>
       </profiles>
       <selectionEntryGroups>
-        <selectionEntryGroup name="Unit composition" id="ae81-1cbf-bd9d-bb9c" hidden="false" defaultSelectionEntryId="dc49-0e3b-208b-c2ad">
+        <selectionEntryGroup name="Unit composition" id="ae81-1cbf-bd9d-bb9c" hidden="false" defaultSelectionEntryId="f88d-6aef-ffd0-68d4">
           <selectionEntries>
             <selectionEntry type="upgrade" import="true" name="5 models" hidden="false" id="f88d-6aef-ffd0-68d4" collapsible="true">
               <entryLinks>
@@ -18784,7 +18784,7 @@ For the purposes of interacting with terrain features, all models in units with 
         </modifier>
       </modifiers>
     </selectionEntryGroup>
-    <selectionEntryGroup name="Terminator Heavy Weapons" id="3fc1-d76f-66f4-931b" hidden="false" defaultSelectionEntryId="8259-a28d-949-b4fa">
+    <selectionEntryGroup name="Terminator Heavy Weapons" id="3fc1-d76f-66f4-931b" hidden="false" defaultSelectionEntryId="f3f8-0363-7df1-aa4e">
       <constraints>
         <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="ebb2-2e86-d684-f600"/>
         <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="81bf-526a-d87f-56e5"/>
@@ -19003,7 +19003,7 @@ For the purposes of interacting with terrain features, all models in units with 
         </selectionEntry>
       </selectionEntries>
     </selectionEntryGroup>
-    <selectionEntryGroup name="Terminator Weapons" id="96e4-051e-b7c1-76e9" hidden="false" defaultSelectionEntryId="ad9-d7f5-59b8-cd0d">
+    <selectionEntryGroup name="Terminator Weapons" id="96e4-051e-b7c1-76e9" hidden="false" defaultSelectionEntryId="e81c-f4bc-7e09-dc42">
       <selectionEntries>
         <selectionEntry type="upgrade" import="true" name="Power fist &amp; storm bolter" hidden="false" id="e81c-f4bc-7e09-dc42" publicationId="4115-3627-e608-39f6" page="16">
           <constraints>
