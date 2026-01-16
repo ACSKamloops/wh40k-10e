@@ -1738,7 +1738,7 @@ Water from the Stoup of Elucidation: Improve the Armour Penetration characterist
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d08-88da-d27b-7945"/>
               </constraints>
               <selectionEntryGroups>
-                <selectionEntryGroup name="Weapon Option 1" id="3d66-d1e0-648c-10d7" hidden="false" defaultSelectionEntryId="513f-5e76-2fc6-63e1">
+                <selectionEntryGroup name="Weapon Option 1" id="3d66-d1e0-648c-10d7" hidden="false" defaultSelectionEntryId="b27e-04cd-2f77-4615">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="8c6d-9546-2426-70f8"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="03b3-2a86-4faa-aded"/>

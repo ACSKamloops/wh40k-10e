@@ -503,7 +503,7 @@ Until the end of the phase, each time a model from your army in a Guided unit m
       <selectionEntryGroups>
         <selectionEntryGroup name="Wargear" hidden="false" id="3e0b-ab5b-d140-f192" sortIndex="4">
           <selectionEntryGroups>
-            <selectionEntryGroup name="Support Systems (1-4)" id="738f-2f00-e5f6-d038" hidden="false" defaultSelectionEntryId="53a4-1253-beeb-d26e" sortIndex="1">
+            <selectionEntryGroup name="Support Systems (1-4)" id="738f-2f00-e5f6-d038" hidden="false" defaultSelectionEntryId="7f59-afb3-e32f-1bee" sortIndex="1">
               <entryLinks>
                 <entryLink import="true" name="Battlesuit support system" hidden="false" id="7f59-afb3-e32f-1bee" type="selectionEntry" targetId="d00f-7725-16e3-c8ad">
                   <constraints>
@@ -790,7 +790,7 @@ Until the end of the phase, each time a model from your army in a Guided unit m
       <selectionEntryGroups>
         <selectionEntryGroup name="Wargear" id="dac8-bba4-2c2e-9196" hidden="false" sortIndex="4">
           <selectionEntryGroups>
-            <selectionEntryGroup name="Support Systems (1-4)" id="e3b2-b45e-4d3d-e5cf" hidden="false" defaultSelectionEntryId="391d-0fe2-9e7c-ed64" sortIndex="1">
+            <selectionEntryGroup name="Support Systems (1-4)" id="e3b2-b45e-4d3d-e5cf" hidden="false" defaultSelectionEntryId="03e0-4f26-faf9-48d5" sortIndex="1">
               <entryLinks>
                 <entryLink import="true" name="Battlesuit support system" hidden="false" id="03e0-4f26-faf9-48d5" type="selectionEntry" targetId="d00f-7725-16e3-c8ad">
                   <constraints>
@@ -3479,7 +3479,7 @@ Designer’s Note: Place a Support Turret token next to this unit to remind you.
                 </entryLink>
               </entryLinks>
               <selectionEntryGroups>
-                <selectionEntryGroup name="Support Systems (1-4)" id="f466-1c02-c779-53d5" hidden="false" defaultSelectionEntryId="4829-3016-50ac-2142" sortIndex="1">
+                <selectionEntryGroup name="Support Systems (1-4)" id="f466-1c02-c779-53d5" hidden="false" defaultSelectionEntryId="22e3-819f-1d56-38c6" sortIndex="1">
                   <entryLinks>
                     <entryLink import="true" name="Battlesuit support system" hidden="false" id="22e3-819f-1d56-38c6" type="selectionEntry" targetId="d00f-7725-16e3-c8ad">
                       <constraints>
@@ -3609,7 +3609,7 @@ Designer’s Note: Place a Support Turret token next to this unit to remind you.
               <selectionEntryGroups>
                 <selectionEntryGroup name="Wargear" id="1544-9321-65e0-f35b" hidden="false" collective="false" sortIndex="2">
                   <selectionEntryGroups>
-                    <selectionEntryGroup name="Support Systems (1-4)" id="ed16-9494-02dd-74ca" hidden="false" defaultSelectionEntryId="4829-3016-50ac-2142" sortIndex="1">
+                    <selectionEntryGroup name="Support Systems (1-4)" id="ed16-9494-02dd-74ca" hidden="false" defaultSelectionEntryId="6a1d-a984-a39b-b6ba" sortIndex="1">
                       <entryLinks>
                         <entryLink import="true" name="Battlesuit support system" hidden="false" id="6a1d-a984-a39b-b6ba" type="selectionEntry" targetId="d00f-7725-16e3-c8ad">
                           <constraints>
@@ -5350,7 +5350,7 @@ Designer’s Note: Place two Stealth Drone tokens next to the unit, removing one
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="b8c1-201e-d194-3e5e"/>
                   </constraints>
                 </selectionEntryGroup>
-                <selectionEntryGroup name="Seeker Missiles (0-2)" id="a1d6-3f5c-85dc-50a0" hidden="false" defaultSelectionEntryId="7635-a6f-66e7-b952">
+                <selectionEntryGroup name="Seeker Missiles (0-2)" id="a1d6-3f5c-85dc-50a0" hidden="false" defaultSelectionEntryId="3170-7dcc-8835-42ce">
                   <entryLinks>
                     <entryLink import="true" name="Seeker missile" hidden="false" id="3170-7dcc-8835-42ce" type="selectionEntry" targetId="3a30-cb51-c88c-255f">
                       <constraints>
@@ -6913,7 +6913,7 @@ Designer’s Note: Place an Oversight Drone token next to the bearer, removing i
             </selectionEntry>
           </selectionEntries>
           <selectionEntryGroups>
-            <selectionEntryGroup name="Twin Pulse Carbines" id="3dc9-6bc8-0575-c1c4" hidden="false" defaultSelectionEntryId="5064-479f-d0cf-d457" collective="false">
+            <selectionEntryGroup name="Twin Pulse Carbines" id="3dc9-6bc8-0575-c1c4" hidden="false" defaultSelectionEntryId="5460-d70a-9f4b-7f06" collective="false">
               <constraints>
                 <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="787e-db4b-943c-146e"/>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="5217-85b4-f5c7-8e50"/>
@@ -10846,7 +10846,7 @@ Designer’s Note: Place an Oversight Drone token next to the bearer, removing i
             </selectionEntry>
           </selectionEntries>
           <selectionEntryGroups>
-            <selectionEntryGroup name="Burst Cannons" id="c468-7140-2a88-0286" hidden="false" defaultSelectionEntryId="7d90-f591-23ea-c3df">
+            <selectionEntryGroup name="Burst Cannons" id="c468-7140-2a88-0286" hidden="false" defaultSelectionEntryId="c37a-62fd-b5c3-1405">
               <constraints>
                 <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="0b31-7383-d432-29c0"/>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="41fe-37c5-adba-0afc"/>

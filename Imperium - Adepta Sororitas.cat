@@ -1053,7 +1053,7 @@
                 </selectionEntry>
               </selectionEntries>
             </selectionEntryGroup>
-            <selectionEntryGroup name="Melee Weapon" id="993b-f1fc-6c99-684c" hidden="false" collective="false" import="true" defaultSelectionEntryId="fcd1-c90d-a977-5d75">
+            <selectionEntryGroup name="Melee Weapon" id="993b-f1fc-6c99-684c" hidden="false" collective="false" import="true" defaultSelectionEntryId="990b-63f3-ceb5-aa67">
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="false" id="29fb-8230-8677-55c8" percentValue="false" includeChildSelections="false" includeChildForces="false"/>
                 <constraint type="min" value="1" field="selections" scope="parent" shared="false" id="e75d-f92d-3bb0-3810" percentValue="false" includeChildSelections="false" includeChildForces="false"/>

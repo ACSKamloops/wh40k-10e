@@ -18621,7 +18621,7 @@ Designer’s Note: Place a Squig Mine token next to the model, removing it once 
                 </entryLink>
               </entryLinks>
             </selectionEntryGroup>
-            <selectionEntryGroup name="Choppa" id="ca57-1c11-4d15-6e3" hidden="false" defaultSelectionEntryId="4ad9-4247-42dd-df68">
+            <selectionEntryGroup name="Choppa" id="ca57-1c11-4d15-6e3" hidden="false" defaultSelectionEntryId="c65-4eee-17d-81c6">
               <constraints>
                 <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="1ad0-36c7-5689-f554"/>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="b8dd-8c96-3e58-f10b"/>
@@ -19252,7 +19252,7 @@ Designer’s Note: Place a Squig Mine token next to the model, removing it once 
                 </entryLink>
               </entryLinks>
             </selectionEntryGroup>
-            <selectionEntryGroup name="Kustom Mega-blasta" id="9511-755a-8f81-9786" hidden="false" defaultSelectionEntryId="2ffe-fa58-14cc-13">
+            <selectionEntryGroup name="Kustom Mega-blasta" id="9511-755a-8f81-9786" hidden="false" defaultSelectionEntryId="6b75-9f52-e1fa-681b">
               <selectionEntries>
                 <selectionEntry type="upgrade" import="true" name="Traktor blasta" hidden="false" id="6b75-9f52-e1fa-681b">
                   <profiles>

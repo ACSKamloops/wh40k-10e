@@ -6024,7 +6024,7 @@ When mustering your army, each ^^Officio Assassinorum^^ unit from your army has 
         </profile>
       </profiles>
       <selectionEntryGroups>
-        <selectionEntryGroup name="5 - 10 Acolytes" id="fc96-fbec-1493-8dda" hidden="false" defaultSelectionEntryId="1c93-2dd5-5bb2-a581" sortIndex="2">
+        <selectionEntryGroup name="5 - 10 Acolytes" id="fc96-fbec-1493-8dda" hidden="false" defaultSelectionEntryId="d7b8-4b06-e145-24ab" sortIndex="2">
           <constraints>
             <constraint type="min" value="5" field="selections" scope="parent" shared="true" id="b089-c026-1a09-ca54"/>
             <constraint type="max" value="10" field="selections" scope="parent" shared="true" id="9c21-5c9c-b033-dfac"/>
@@ -7706,7 +7706,7 @@ When mustering your army, each ^^Officio Assassinorum^^ unit from your army has 
         <categoryLink name="Requisitioned" hidden="false" id="0b94-a447-633a-9097" targetId="75f4-93ee-b9a0-bb5f" primary="false"/>
       </categoryLinks>
       <selectionEntryGroups>
-        <selectionEntryGroup name="Battle Sisters" id="533d-0199-bf20-fc31" hidden="false" collective="false" defaultSelectionEntryId="ae8a-1218-a416-d583" sortIndex="3">
+        <selectionEntryGroup name="Battle Sisters" id="533d-0199-bf20-fc31" hidden="false" collective="false" defaultSelectionEntryId="b938-9487-0dc2-5cc3" sortIndex="3">
           <constraints>
             <constraint type="min" value="9" field="selections" scope="parent" shared="true" id="3129-ae39-6c87-63b2"/>
             <constraint type="max" value="9" field="selections" scope="parent" shared="true" id="c4a0-6673-3d2d-4d77"/>

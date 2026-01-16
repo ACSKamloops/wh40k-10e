@@ -3501,7 +3501,7 @@ In addition, each time a model in this unit makes an attack that targets your Oa
                 </modifier>
               </modifiers>
               <selectionEntryGroups>
-                <selectionEntryGroup name="Ranged Weapon" hidden="false" id="263b-cdd4-4c43-5d67" defaultSelectionEntryId="8d41-a5bb-150b-1230" collective="false">
+                <selectionEntryGroup name="Ranged Weapon" hidden="false" id="263b-cdd4-4c43-5d67" defaultSelectionEntryId="7b9-373e-2355-4be" collective="false">
                   <selectionEntries>
                     <selectionEntry type="upgrade" import="true" name="Cyclone Missile Launcher &amp; Storm Bolter" hidden="false" id="7b9-373e-2355-4be" collective="false">
                       <constraints>
@@ -4900,7 +4900,7 @@ In addition, each time a model in this unit makes an attack that targets your Oa
                 </modifier>
               </modifiers>
               <selectionEntryGroups>
-                <selectionEntryGroup name="Ranged Weapon" hidden="false" id="aa80-402e-3076-bf8d" defaultSelectionEntryId="6399-da3e-f8d0-2dd0" collective="false">
+                <selectionEntryGroup name="Ranged Weapon" hidden="false" id="aa80-402e-3076-bf8d" defaultSelectionEntryId="ea88-80d2-4da7-a69a" collective="false">
                   <selectionEntries>
                     <selectionEntry type="upgrade" import="true" name="Cyclone Missile Launcher &amp; Storm Bolter" hidden="false" id="ea88-80d2-4da7-a69a" collective="false">
                       <constraints>
