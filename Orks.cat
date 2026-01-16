@@ -14911,7 +14911,7 @@ Designer’s Note: Place a Squig Mine token next to the model, removing it once 
                 </entryLink>
               </entryLinks>
             </selectionEntryGroup>
-            <selectionEntryGroup name="Choppa" hidden="false" id="e71b-8282-1b47-5556" defaultSelectionEntryId="9a88-5bab-b630-b447">
+            <selectionEntryGroup name="Choppa" hidden="false" id="e71b-8282-1b47-5556" defaultSelectionEntryId="86fa-affb-3150-19cd">
               <constraints>
                 <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="e777-18a4-26cf-3d11"/>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="570f-7c07-c062-24c8"/>
@@ -17050,7 +17050,7 @@ Designer’s Note: Place a Squig Mine token next to the model, removing it once 
             </entryLink>
           </entryLinks>
           <selectionEntryGroups>
-            <selectionEntryGroup name="Big Gunz" id="6d7e-3046-8d01-6a36" hidden="false" defaultSelectionEntryId="d070-1a19-92cd-b925">
+            <selectionEntryGroup name="Big Gunz" id="6d7e-3046-8d01-6a36" hidden="false" defaultSelectionEntryId="2f65-2b9d-1968-4cd5">
               <constraints>
                 <constraint type="min" value="3" field="selections" scope="parent" shared="true" id="d1d6-33bb-e052-48db"/>
                 <constraint type="max" value="3" field="selections" scope="parent" shared="true" id="863-751f-bdef-78c1"/>

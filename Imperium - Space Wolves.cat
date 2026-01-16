@@ -2718,7 +2718,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
         </profile>
       </profiles>
       <selectionEntryGroups>
-        <selectionEntryGroup name="Grey Hunters" hidden="false" id="797e-945f-b95d-3aae" defaultSelectionEntryId="982a-72ab-720f-e6fe" sortIndex="2">
+        <selectionEntryGroup name="Grey Hunters" hidden="false" id="797e-945f-b95d-3aae" defaultSelectionEntryId="d883-7029-e67f-9bb6" sortIndex="2">
           <constraints>
             <constraint type="min" value="10" field="selections" scope="parent" shared="true" id="3715-c6d4-9da7-713f"/>
             <constraint type="max" value="10" field="selections" scope="parent" shared="true" id="d40e-5598-de17-f895"/>
@@ -6827,7 +6827,7 @@ You must attach this model to one of the above units, and can do so even if one
           <selectionEntryGroups>
             <selectionEntryGroup name="Loadout" id="9389-e686-d27f-9204" hidden="false">
               <selectionEntryGroups>
-                <selectionEntryGroup name="Pistols" id="e702-36c4-8de9-f88f" hidden="false" defaultSelectionEntryId="715-e78d-37fc-f2b">
+                <selectionEntryGroup name="Pistols" id="e702-36c4-8de9-f88f" hidden="false" defaultSelectionEntryId="3e3f-742c-5bcf-e4aa">
                   <constraints>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="783b-aa48-5bb1-1b71"/>
                   </constraints>
@@ -7157,7 +7157,7 @@ You must attach this model to the above unit, and can do so even if one or more
           <selectionEntryGroups>
             <selectionEntryGroup name="Loadout" id="c15f-f023-2a37-d379" hidden="false">
               <selectionEntryGroups>
-                <selectionEntryGroup name="Pistols" id="ad73-c797-fbbd-ddc0" hidden="false" defaultSelectionEntryId="715-e78d-37fc-f2b">
+                <selectionEntryGroup name="Pistols" id="ad73-c797-fbbd-ddc0" hidden="false" defaultSelectionEntryId="4136-3a81-50f1-a35b">
                   <constraints>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="0ef8-73cd-6865-7333"/>
                   </constraints>

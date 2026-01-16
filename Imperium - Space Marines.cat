@@ -7887,7 +7887,7 @@ Strategic Reserves.</characteristic>
                 </selectionEntry>
               </selectionEntries>
               <selectionEntryGroups>
-                <selectionEntryGroup name="Pistol Option" hidden="false" id="1afc-6f0a-4423-db37" defaultSelectionEntryId="fcfb-fd68-abbc-3ed3">
+                <selectionEntryGroup name="Pistol Option" hidden="false" id="1afc-6f0a-4423-db37" defaultSelectionEntryId="c252-ce95-be5e-ac20">
                   <selectionEntries>
                     <selectionEntry type="upgrade" import="true" name="Storm Shield" hidden="false" id="d696-6426-c95b-30e4">
                       <profiles>
@@ -8146,7 +8146,7 @@ Strategic Reserves.</characteristic>
                 </selectionEntry>
               </selectionEntries>
               <selectionEntryGroups>
-                <selectionEntryGroup name="Pistol Option" hidden="false" id="1944-f0c4-324e-722e" defaultSelectionEntryId="bfea-dd65-8266-d78c">
+                <selectionEntryGroup name="Pistol Option" hidden="false" id="1944-f0c4-324e-722e" defaultSelectionEntryId="9311-cda1-9bd6-1827">
                   <selectionEntries>
                     <selectionEntry type="upgrade" import="true" name="Storm Shield" hidden="false" id="37d3-43c3-f18a-d5f9">
                       <profiles>
@@ -25959,7 +25959,7 @@ weapons equipped by models in this model’s unit have the [DEVASTATING WOUNDS]
             </entryLink>
           </entryLinks>
           <selectionEntryGroups>
-            <selectionEntryGroup name="Weapon" id="68df-cc7a-f4ab-4114" hidden="false" defaultSelectionEntryId="222f-54b5-a147-a547">
+            <selectionEntryGroup name="Weapon" id="68df-cc7a-f4ab-4114" hidden="false" defaultSelectionEntryId="0224-bfd2-568d-0f47">
               <constraints>
                 <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="baa6-a8f5-eca4-73b8"/>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="a485-d936-6a89-235e"/>
