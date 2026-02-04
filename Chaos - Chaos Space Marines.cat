@@ -26635,7 +26635,7 @@ You can attach this model to one of the above units even if one other CHARACTER 
             <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="a880-d147-8db8-9984" percentValue="false" includeChildSelections="false" includeChildForces="false"/>
           </constraints>
           <selectionEntryGroups>
-            <selectionEntryGroup name="Wargear" id="4eb4-a48c-9b66-76e" hidden="false" collective="false" import="true" defaultSelectionEntryId="4128-d8b4-4f3b-ae20">
+            <selectionEntryGroup name="Wargear" id="4eb4-a48c-9b66-76e" hidden="false" collective="false" import="true" defaultSelectionEntryId="6267-d4f4-5513-2fc0">
               <constraints>
                 <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="e851-85bf-b0f3-ba96" percentValue="false" includeChildSelections="false" includeChildForces="false"/>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="2740-919f-6d7d-c9d8" percentValue="false" includeChildSelections="false" includeChildForces="false"/>

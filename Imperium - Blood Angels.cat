@@ -2076,7 +2076,7 @@ If a Character unit from your army with the Leader ability can be attached to a
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="3fc2-b555-8ebb-66da" includeChildSelections="false"/>
                   </constraints>
                 </selectionEntryGroup>
-                <selectionEntryGroup name="Melee Weapon" id="9068-ef9c-8583-ceb2" hidden="false" defaultSelectionEntryId="05ea-4b2e-bcbb-7c9b">
+                <selectionEntryGroup name="Melee Weapon" id="9068-ef9c-8583-ceb2" hidden="false" defaultSelectionEntryId="bead-7f68-bd5c-5f80">
                   <entryLinks>
                     <entryLink import="true" name="Power Weapon" hidden="false" id="bead-7f68-bd5c-5f80" type="selectionEntry" targetId="c4b5-68e-2266-f459">
                       <constraints>
@@ -3221,7 +3221,7 @@ horizontally away from all enemy models.</characteristic>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="3d50-350e-ded5-9729" includeChildSelections="false"/>
                   </constraints>
                 </selectionEntryGroup>
-                <selectionEntryGroup name="Ranged Weapon" id="7713-28f3-c9d1-4da1" hidden="false">
+                <selectionEntryGroup name="Ranged Weapon" id="7713-28f3-c9d1-4da1" hidden="false" defaultSelectionEntryId="f64-f4db-cee7-c077">
                   <constraints>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d34e-a394-d6b3-98c8" includeChildSelections="false"/>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="e994-820c-344c-7d8a" includeChildSelections="false"/>
@@ -5228,7 +5228,7 @@ You can attach this model to one of the above units, even if one Captain, Chapt
                     </selectionEntry>
                   </selectionEntries>
                 </selectionEntryGroup>
-                <selectionEntryGroup name="Replace Chainsword" id="fff9-ea18-368c-d4a1" hidden="false" defaultSelectionEntryId="c7a8-c7ee-1248-ef35">
+                <selectionEntryGroup name="Replace Chainsword" id="fff9-ea18-368c-d4a1" hidden="false" defaultSelectionEntryId="2aba-e045-dbd4-adbd">
                   <entryLinks>
                     <entryLink import="true" name="Thunder Hammer" hidden="false" id="0750-7bd3-6edf-09d2" type="selectionEntry" targetId="3acf-2a72-a5a2-84a2">
                       <categoryLinks>
@@ -5465,7 +5465,7 @@ You can attach this model to one of the above units, even if one Captain, Chapt
             </entryLink>
           </entryLinks>
           <selectionEntryGroups>
-            <selectionEntryGroup name="Melee Weapon Option" id="deea-3d0d-ec5c-5a96" hidden="false" defaultSelectionEntryId="fbd7-1d77-add6-15f1">
+            <selectionEntryGroup name="Melee Weapon Option" id="deea-3d0d-ec5c-5a96" hidden="false" defaultSelectionEntryId="0260-6bc1-1c2e-5bd1">
               <selectionEntries>
                 <selectionEntry type="upgrade" import="true" name="Blood Fists &amp; Blood Fist Bolt Rifles" hidden="false" id="0260-6bc1-1c2e-5bd1">
                   <selectionEntries>
@@ -5550,7 +5550,7 @@ You can attach this model to one of the above units, even if one Captain, Chapt
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="0633-0df8-1500-d4c4"/>
               </constraints>
             </selectionEntryGroup>
-            <selectionEntryGroup name="Ranged Weapon Option" id="0594-cce0-43e8-a8cb" hidden="false" defaultSelectionEntryId="e99e-b2c0-4c80-779b">
+            <selectionEntryGroup name="Ranged Weapon Option" id="0594-cce0-43e8-a8cb" hidden="false" defaultSelectionEntryId="283d-01d2-30bd-8d3b">
               <entryLinks>
                 <entryLink import="true" name="Twin Heavy Bolter" hidden="false" id="283d-01d2-30bd-8d3b" type="selectionEntry" targetId="d107-1e89-9d3f-c9c7"/>
                 <entryLink import="true" name="Twin Multi-melta" hidden="false" id="d865-d29d-90d2-1db4" type="selectionEntry" targetId="6fad-2d0d-8ff9-5f8f"/>
@@ -5712,7 +5712,7 @@ If a Character unit from your army with the Leader ability can be attached to a
           <selectionEntries>
             <selectionEntry type="model" import="true" name="Death Company Marine" hidden="false" id="7db1-301d-38d4-2d57">
               <selectionEntryGroups>
-                <selectionEntryGroup name="Weapon Options" id="705b-65de-30a3-0695" hidden="false" defaultSelectionEntryId="834f-3470-9783-f5e9">
+                <selectionEntryGroup name="Weapon Options" id="705b-65de-30a3-0695" hidden="false" defaultSelectionEntryId="76db-4479-947f-6c1c">
                   <selectionEntries>
                     <selectionEntry type="upgrade" import="true" name="Boltgun and Close Combat Weapon" hidden="false" id="76db-4479-947f-6c1c">
                       <entryLinks>

@@ -18745,7 +18745,7 @@ It can also move through sections of terrain features that are more than 4&quot;
                 </profile>
               </profiles>
               <selectionEntryGroups>
-                <selectionEntryGroup name="Wargear" id="1cbd-52f1-12ea-746d" hidden="false">
+                <selectionEntryGroup name="Wargear" id="1cbd-52f1-12ea-746d" hidden="false" defaultSelectionEntryId="914b-4bf2-ef28-e63a">
                   <selectionEntries>
                     <selectionEntry type="upgrade" import="true" name="Demiklaives" hidden="false" id="694a-1b90-4195-2d3f">
                       <profiles>
@@ -37313,7 +37313,7 @@ For every 5 models in this unit, it can have 1 Aspect Shrine token.</characteris
           <selectionEntries>
             <selectionEntry type="model" import="true" name="Solarite" hidden="false" id="4339-efd9-2c5b-29d9">
               <selectionEntryGroups>
-                <selectionEntryGroup name="Weapon Option" id="82ba-d85c-1752-1ad6" hidden="false" defaultSelectionEntryId="5768-c5d9-c4d6-360a">
+                <selectionEntryGroup name="Weapon Option" id="82ba-d85c-1752-1ad6" hidden="false" defaultSelectionEntryId="a1da-6e01-938a-89c7">
                   <selectionEntries>
                     <selectionEntry type="upgrade" import="true" name="Shardcarbine" hidden="false" id="a1da-6e01-938a-89c7">
                       <profiles>

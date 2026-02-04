@@ -7889,7 +7889,7 @@ Strategic Reserves.</characteristic>
                 </selectionEntry>
               </selectionEntries>
               <selectionEntryGroups>
-                <selectionEntryGroup name="Pistol Option" hidden="false" id="1afc-6f0a-4423-db37" defaultSelectionEntryId="fcfb-fd68-abbc-3ed3">
+                <selectionEntryGroup name="Pistol Option" hidden="false" id="1afc-6f0a-4423-db37" defaultSelectionEntryId="c252-ce95-be5e-ac20">
                   <selectionEntries>
                     <selectionEntry type="upgrade" import="true" name="Storm Shield" hidden="false" id="d696-6426-c95b-30e4">
                       <profiles>
@@ -8148,7 +8148,7 @@ Strategic Reserves.</characteristic>
                 </selectionEntry>
               </selectionEntries>
               <selectionEntryGroups>
-                <selectionEntryGroup name="Pistol Option" hidden="false" id="1944-f0c4-324e-722e" defaultSelectionEntryId="bfea-dd65-8266-d78c">
+                <selectionEntryGroup name="Pistol Option" hidden="false" id="1944-f0c4-324e-722e" defaultSelectionEntryId="9311-cda1-9bd6-1827">
                   <selectionEntries>
                     <selectionEntry type="upgrade" import="true" name="Storm Shield" hidden="false" id="37d3-43c3-f18a-d5f9">
                       <profiles>
@@ -9878,7 +9878,7 @@ by 1.</characteristic>
                     <entryLink import="true" name="Assault Cannon" hidden="false" type="selectionEntry" id="45b8-38fd-f5e7-c9ac" targetId="2de6-ff2-dc37-b20d"/>
                   </entryLinks>
                 </selectionEntryGroup>
-                <selectionEntryGroup name="Melee Weapon Option" hidden="false" id="7089-ff75-d1ab-f0c5" defaultSelectionEntryId="e5be-2982-e40f-d95c">
+                <selectionEntryGroup name="Melee Weapon Option" hidden="false" id="7089-ff75-d1ab-f0c5" defaultSelectionEntryId="24dc-f621-033b-474a">
                   <entryLinks>
                     <entryLink import="true" name="Chainfist" hidden="false" type="selectionEntry" id="3c30-e2f9-b246-61c1" targetId="5a2-c6a5-9b4b-605f"/>
                     <entryLink import="true" name="Power Fist" hidden="false" id="24dc-f621-033b-474a" type="selectionEntry" targetId="f8d8-7e77-4b71-faac"/>
@@ -10071,7 +10071,7 @@ by 1.</characteristic>
                 <entryLink import="true" name="Terminator Honours upgrade" hidden="false" id="4078-2f7b-150e-ed6c" type="selectionEntry" targetId="e7f9-66f5-9b9e-c587"/>
               </entryLinks>
               <selectionEntryGroups>
-                <selectionEntryGroup name="Ranged Weapon Option" hidden="false" id="e8de-672d-7a99-11d" defaultSelectionEntryId="5e9e-6e42-64e5-8209">
+                <selectionEntryGroup name="Ranged Weapon Option" hidden="false" id="e8de-672d-7a99-11d" defaultSelectionEntryId="8752-c07a-6bc1-f23">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="4e01-bec8-7306-e06d"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="7fc5-f44e-ed6c-d404"/>
@@ -10560,7 +10560,7 @@ by 1.</characteristic>
                 </profile>
               </profiles>
               <selectionEntryGroups>
-                <selectionEntryGroup name="Centurion Option" id="2df1-72a1-d87c-bfc2" hidden="false" defaultSelectionEntryId="9eb2-303-2813-f6e9">
+                <selectionEntryGroup name="Centurion Option" id="2df1-72a1-d87c-bfc2" hidden="false" defaultSelectionEntryId="12e5-03de-2c6f-e778">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="65a1-818b-b3a7-07a1"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="23e4-0b5e-7f11-817c"/>
@@ -10587,7 +10587,7 @@ by 1.</characteristic>
                     </entryLink>
                   </entryLinks>
                 </selectionEntryGroup>
-                <selectionEntryGroup name="Weapon Option" id="d35f-ba76-b150-9a05" hidden="false" defaultSelectionEntryId="aff3-7853-be23-5391">
+                <selectionEntryGroup name="Weapon Option" id="d35f-ba76-b150-9a05" hidden="false" defaultSelectionEntryId="73bd-8d81-34dc-a8af">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="e823-6f66-e6b2-feca"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="83a1-5619-012f-d222"/>
@@ -10660,7 +10660,7 @@ by 1.</characteristic>
                     <entryLink import="true" name="Centurion Bolters" hidden="false" type="selectionEntry" id="9eb2-303-2813-f6e9" targetId="953c-b525-10be-f7cd"/>
                   </entryLinks>
                 </selectionEntryGroup>
-                <selectionEntryGroup name="Weapon Option" hidden="false" id="2e61-a3ba-8898-a22f" defaultSelectionEntryId="aff3-7853-be23-5391">
+                <selectionEntryGroup name="Weapon Option" hidden="false" id="2e61-a3ba-8898-a22f" defaultSelectionEntryId="86cf-487c-f987-d744">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="e12d-1282-fb24-2ccb"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="8f07-61d6-617e-8be5"/>
@@ -10835,7 +10835,7 @@ by 1.</characteristic>
                 </profile>
               </profiles>
               <selectionEntryGroups>
-                <selectionEntryGroup name="Centurion Option" id="562f-efdd-36e3-881d" hidden="false" defaultSelectionEntryId="8866-3f9-fc9b-80bd">
+                <selectionEntryGroup name="Centurion Option" id="562f-efdd-36e3-881d" hidden="false" defaultSelectionEntryId="b684-2f1c-016f-4369">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="806d-7bfb-36a1-aadf"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="99c8-1b94-c8e9-b223"/>
@@ -10853,7 +10853,7 @@ by 1.</characteristic>
                     </entryLink>
                   </entryLinks>
                 </selectionEntryGroup>
-                <selectionEntryGroup name="Weapon Option" id="a0fb-ccdc-9b2c-31d3" hidden="false" defaultSelectionEntryId="f6a1-a037-fa1c-4cb5">
+                <selectionEntryGroup name="Weapon Option" id="a0fb-ccdc-9b2c-31d3" hidden="false" defaultSelectionEntryId="2179-382a-0ec2-1cd5">
                   <entryLinks>
                     <entryLink import="true" name="Twin Heavy Bolter" hidden="false" id="0e8c-72d4-d5f0-46f9" type="selectionEntry" targetId="d107-1e89-9d3f-c9c7">
                       <entryLinks>
@@ -11446,7 +11446,7 @@ by 1.</characteristic>
       <selectionEntryGroups>
         <selectionEntryGroup name="Wargear" id="3876-30d8-59ae-c20e" hidden="false" sortIndex="2">
           <selectionEntryGroups>
-            <selectionEntryGroup name="Dreadnought Arm Weapons" id="5e5-b233-2612-f069" hidden="false" defaultSelectionEntryId="1275-aa0c-401c-86e">
+            <selectionEntryGroup name="Dreadnought Arm Weapons" id="5e5-b233-2612-f069" hidden="false" defaultSelectionEntryId="94b-7c6c-1d21-ce9e">
               <selectionEntries>
                 <selectionEntry type="upgrade" import="true" name="Dreadnought Combat Weapon w/ Heavy Flamer" hidden="false" id="71f4-bd44-8ad6-7a7a">
                   <entryLinks>
@@ -11888,7 +11888,7 @@ by 1.</characteristic>
                 </selectionEntry>
               </selectionEntries>
             </selectionEntryGroup>
-            <selectionEntryGroup name="Weapon 2" id="7fa1-fdbb-e355-d2ff" hidden="false" defaultSelectionEntryId="e220-7f20-a1e5-14f3">
+            <selectionEntryGroup name="Weapon 2" id="7fa1-fdbb-e355-d2ff" hidden="false" defaultSelectionEntryId="76d5-ff0a-71ee-8a39">
               <selectionEntryGroups>
                 <selectionEntryGroup name="Underslung Weapon" id="76d5-ff0a-71ee-8a39" hidden="false" defaultSelectionEntryId="3d27-aff6-d48e-6915">
                   <entryLinks>
@@ -13406,7 +13406,7 @@ by 1.</characteristic>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="3deb-f38e-43c5-ef05"/>
               </constraints>
               <selectionEntryGroups>
-                <selectionEntryGroup name="Pistol Option" hidden="false" id="d9b5-27ff-a097-e9bf" defaultSelectionEntryId="ad8a-8104-dc08-4f0e">
+                <selectionEntryGroup name="Pistol Option" hidden="false" id="d9b5-27ff-a097-e9bf" defaultSelectionEntryId="d1d1-b62a-20f4-78ab">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="5cde-5f7-cc6b-ab97"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="9053-492f-ce2b-7885"/>
@@ -14959,7 +14959,7 @@ by 1.</characteristic>
                     </entryLink>
                   </entryLinks>
                 </selectionEntryGroup>
-                <selectionEntryGroup name="Weapon Option" hidden="false" id="d880-f154-6f34-4dd3" defaultSelectionEntryId="4ba2-32e0-91f-30a4">
+                <selectionEntryGroup name="Weapon Option" hidden="false" id="d880-f154-6f34-4dd3" defaultSelectionEntryId="dbd9-d93d-1e49-eda7">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="43be-af23-882e-4920"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="8af4-732a-526d-6049"/>
@@ -15398,7 +15398,7 @@ by 1.</characteristic>
                 <entryLink import="true" name="Terminator Honours upgrade" hidden="false" id="a2a2-10ad-26ae-6d78" type="selectionEntry" targetId="e7f9-66f5-9b9e-c587"/>
               </entryLinks>
               <selectionEntryGroups>
-                <selectionEntryGroup name="Weapon Option" id="a7f1-565a-abda-a654" hidden="false" defaultSelectionEntryId="3825-3595-abd6-31ce">
+                <selectionEntryGroup name="Weapon Option" id="a7f1-565a-abda-a654" hidden="false" defaultSelectionEntryId="b2c5-40c3-e755-48a5">
                   <selectionEntries>
                     <selectionEntry type="upgrade" import="true" name="Assault Bolters" hidden="false" id="b2c5-40c3-e755-48a5">
                       <profiles>
@@ -16899,7 +16899,7 @@ by 1.</characteristic>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="8c04-91bc-13be-f906"/>
               </constraints>
               <selectionEntryGroups>
-                <selectionEntryGroup name="Pistol Option" hidden="false" id="adf2-4bf1-bc97-2b18">
+                <selectionEntryGroup name="Pistol Option" hidden="false" id="adf2-4bf1-bc97-2b18" defaultSelectionEntryId="64d9-976-6c0a-d06f">
                   <entryLinks>
                     <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="64d9-976-6c0a-d06f" targetId="18b0-8c2-173f-5">
                       <constraints>
@@ -17680,7 +17680,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
                 <constraint type="max" value="4" field="selections" scope="parent" shared="true" id="6caf-3420-89b7-bdc7"/>
               </constraints>
               <selectionEntryGroups>
-                <selectionEntryGroup name="Weapon Option" hidden="false" id="eaa2-c22a-e557-3a23">
+                <selectionEntryGroup name="Weapon Option" hidden="false" id="eaa2-c22a-e557-3a23" defaultSelectionEntryId="c316-aee6-6a43-99e3">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="d97c-f577-dd33-c1db"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="65e1-f5c0-a104-8322"/>
@@ -22154,7 +22154,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
                 </entryLink>
               </entryLinks>
             </selectionEntryGroup>
-            <selectionEntryGroup name="Sponsons" id="edd-ef25-4c7f-69d8" hidden="false" defaultSelectionEntryId="6716-dd41-6f4c-ef3c">
+            <selectionEntryGroup name="Sponsons" id="edd-ef25-4c7f-69d8" hidden="false" defaultSelectionEntryId="52d7-5eff-50c4-6803">
               <constraints>
                 <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="cf57-7e72-df71-bbea"/>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="10c8-6cc0-ed4f-3568"/>
@@ -22905,7 +22905,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
             </entryLink>
           </entryLinks>
           <selectionEntryGroups>
-            <selectionEntryGroup name="Weapon Option" id="38e4-a899-1d7c-369d" hidden="false" defaultSelectionEntryId="8b20-995-b36c-3ea1">
+            <selectionEntryGroup name="Weapon Option" id="38e4-a899-1d7c-369d" hidden="false" defaultSelectionEntryId="bd1d-47c2-7557-618">
               <constraints>
                 <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="6ebb-e3ff-13fd-d7fd"/>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="f6b1-c13c-13f9-beec"/>
@@ -25960,7 +25960,7 @@ weapons equipped by models in this model’s unit have the [DEVASTATING WOUNDS]
             </entryLink>
           </entryLinks>
           <selectionEntryGroups>
-            <selectionEntryGroup name="Weapon" id="68df-cc7a-f4ab-4114" hidden="false" defaultSelectionEntryId="222f-54b5-a147-a547">
+            <selectionEntryGroup name="Weapon" id="68df-cc7a-f4ab-4114" hidden="false" defaultSelectionEntryId="0224-bfd2-568d-0f47">
               <constraints>
                 <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="baa6-a8f5-eca4-73b8"/>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="a485-d936-6a89-235e"/>
@@ -27741,7 +27741,7 @@ You can attach this model to one of the above units even if one Captain, Chapte
                 </entryLink>
               </entryLinks>
               <selectionEntryGroups>
-                <selectionEntryGroup name="Melee Weapon" hidden="false" id="e265-27f8-eedb-1e6" defaultSelectionEntryId="163d-15d6-ba3b-30c5">
+                <selectionEntryGroup name="Melee Weapon" hidden="false" id="e265-27f8-eedb-1e6" defaultSelectionEntryId="c4dd-c7ca-afaf-d9e0">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="f68e-963c-2cc1-2eb2"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="6293-ca9d-1c50-44ed"/>
@@ -28304,7 +28304,7 @@ You can attach this model to one of the above units even if one Captain, Chapte
                     </modifier>
                   </modifiers>
                 </selectionEntryGroup>
-                <selectionEntryGroup name="Weapon Option 2" id="4c04-51ad-3658-7582" hidden="false" defaultSelectionEntryId="3b5a-d178-8cef-993f">
+                <selectionEntryGroup name="Weapon Option 2" id="4c04-51ad-3658-7582" hidden="false" defaultSelectionEntryId="bf4b-7c6e-21c9-64f4">
                   <entryLinks>
                     <entryLink import="true" name="Flamer" hidden="false" id="bf4b-7c6e-21c9-64f4" type="selectionEntry" targetId="469c-6259-59a5-64c1">
                       <entryLinks>
@@ -32871,7 +32871,7 @@ You can attach this model to one of the above units even if one Character model
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d4f5-8279-954c-6caa"/>
               </constraints>
               <selectionEntryGroups>
-                <selectionEntryGroup name="Pistol Options" hidden="false" id="463a-669d-a247-a40a">
+                <selectionEntryGroup name="Pistol Options" hidden="false" id="463a-669d-a247-a40a" defaultSelectionEntryId="20e2-e4ef-4621-19ef">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="27d2-a069-c6e0-a409"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="6e5d-15b6-2042-51cf"/>
@@ -32909,7 +32909,7 @@ You can attach this model to one of the above units even if one Character model
                     </entryLink>
                   </entryLinks>
                 </selectionEntryGroup>
-                <selectionEntryGroup name="Chainsword Options" hidden="false" id="721c-a176-3e24-1786">
+                <selectionEntryGroup name="Chainsword Options" hidden="false" id="721c-a176-3e24-1786" defaultSelectionEntryId="49f-1560-935d-49d0">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="ae44-c0a8-cede-9c69"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="c101-2c6c-8ea4-7a21"/>
@@ -32972,7 +32972,7 @@ You can attach this model to one of the above units even if one Character model
                 <constraint type="max" value="4" field="selections" scope="parent" shared="true" id="7569-2d34-f570-cd33"/>
               </constraints>
               <selectionEntryGroups>
-                <selectionEntryGroup name="Chainsword Options" hidden="false" id="6597-1e5d-a4cf-17c3">
+                <selectionEntryGroup name="Chainsword Options" hidden="false" id="6597-1e5d-a4cf-17c3" defaultSelectionEntryId="e194-d1aa-c32a-db2a">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="136d-e670-f00b-4ca3"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="bd55-a77-9279-edb6"/>
@@ -33005,7 +33005,7 @@ You can attach this model to one of the above units even if one Character model
                     <entryLink import="true" name="Grav-gun" hidden="false" id="cecc-915a-149a-adbe" type="selectionEntry" targetId="f2b1-745f-e386-2f1"/>
                   </entryLinks>
                 </selectionEntryGroup>
-                <selectionEntryGroup name="Pistol Options" hidden="false" id="fb41-65cd-89a7-d7">
+                <selectionEntryGroup name="Pistol Options" hidden="false" id="fb41-65cd-89a7-d7" defaultSelectionEntryId="fd29-a81-9fe9-8945">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="e8c-8acd-6590-c77d"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="7fa0-b516-1d2e-db30"/>
@@ -33796,7 +33796,7 @@ Attacks characteristic of 7.</characteristic>
       <selectionEntryGroups>
         <selectionEntryGroup name="Wargear" id="c388-47ad-ac77-0e02" hidden="false" sortIndex="4">
           <selectionEntryGroups>
-            <selectionEntryGroup name="Melee Weapon" id="e166-5f24-d905-4c73" hidden="false" defaultSelectionEntryId="2026-57dd-edbd-c40">
+            <selectionEntryGroup name="Melee Weapon" id="e166-5f24-d905-4c73" hidden="false" defaultSelectionEntryId="9cf5-961d-4c7d-cf72">
               <constraints>
                 <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="77b0-7b72-6768-f640"/>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="9be4-9cb4-2f1c-d33f"/>
@@ -33824,7 +33824,7 @@ Attacks characteristic of 7.</characteristic>
                 </entryLink>
               </entryLinks>
             </selectionEntryGroup>
-            <selectionEntryGroup name="Ranged Weapon" id="676c-b114-d999-3580" hidden="false" defaultSelectionEntryId="4291-66ea-7e4f-d469">
+            <selectionEntryGroup name="Ranged Weapon" id="676c-b114-d999-3580" hidden="false" defaultSelectionEntryId="20a2-f386-d104-3b0c">
               <constraints>
                 <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="5a1f-f183-7fc9-c804"/>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="5032-a8e9-88ce-edf9"/>
@@ -34192,7 +34192,7 @@ Attacks characteristic of 7.</characteristic>
             </entryLink>
           </entryLinks>
           <selectionEntryGroups>
-            <selectionEntryGroup name="Weapon" id="9ba7-f68b-85a7-82f0" hidden="false" defaultSelectionEntryId="6961-cf4f-2acb-422f">
+            <selectionEntryGroup name="Weapon" id="9ba7-f68b-85a7-82f0" hidden="false" defaultSelectionEntryId="3605-e503-b4dd-d11f">
               <entryLinks>
                 <entryLink import="true" name="Combi-weapon" hidden="false" id="3605-e503-b4dd-d11f" type="selectionEntry" targetId="2c13-8cdd-f66b-bcae">
                   <entryLinks>

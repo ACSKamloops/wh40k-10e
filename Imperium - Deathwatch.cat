@@ -2314,7 +2314,7 @@
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="8694-d7ac-cfc4-6630"/>
               </constraints>
               <selectionEntryGroups>
-                <selectionEntryGroup name="Terminator Weapons" id="52a3-786b-962d-44c3" hidden="false" defaultSelectionEntryId="ad9-d7f5-59b8-cd0d">
+                <selectionEntryGroup name="Terminator Weapons" id="52a3-786b-962d-44c3" hidden="false" defaultSelectionEntryId="3a4f-9d8a-d055-f0b7">
                   <selectionEntries>
                     <selectionEntry type="upgrade" import="true" name="Power Fist &amp; Storm Bolter" hidden="false" id="3a4f-9d8a-d055-f0b7" publicationId="4115-3627-e608-39f6" page="16">
                       <constraints>
@@ -5327,7 +5327,7 @@ If this unit has a Leader unit attached to it during the Declare Battle Formatio
                 </entryLink>
               </entryLinks>
             </selectionEntryGroup>
-            <selectionEntryGroup name="Melee option" id="4c4f-3851-2888-5bd7" hidden="false">
+            <selectionEntryGroup name="Melee option" id="4c4f-3851-2888-5bd7" hidden="false" defaultSelectionEntryId="0433-b01b-4de7-f132">
               <entryLinks>
                 <entryLink import="true" name="Astartes Chainsword" hidden="false" id="0433-b01b-4de7-f132" type="selectionEntry" targetId="efcd-180-d07-b4d6">
                   <entryLinks>
