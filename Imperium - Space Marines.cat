@@ -16899,7 +16899,7 @@ by 1.</characteristic>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="8c04-91bc-13be-f906"/>
               </constraints>
               <selectionEntryGroups>
-                <selectionEntryGroup name="Pistol Option" hidden="false" id="adf2-4bf1-bc97-2b18">
+                <selectionEntryGroup name="Pistol Option" hidden="false" id="adf2-4bf1-bc97-2b18" defaultSelectionEntryId="64d9-976-6c0a-d06f">
                   <entryLinks>
                     <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="64d9-976-6c0a-d06f" targetId="18b0-8c2-173f-5">
                       <constraints>
@@ -17680,7 +17680,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
                 <constraint type="max" value="4" field="selections" scope="parent" shared="true" id="6caf-3420-89b7-bdc7"/>
               </constraints>
               <selectionEntryGroups>
-                <selectionEntryGroup name="Weapon Option" hidden="false" id="eaa2-c22a-e557-3a23">
+                <selectionEntryGroup name="Weapon Option" hidden="false" id="eaa2-c22a-e557-3a23" defaultSelectionEntryId="c316-aee6-6a43-99e3">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="d97c-f577-dd33-c1db"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="65e1-f5c0-a104-8322"/>

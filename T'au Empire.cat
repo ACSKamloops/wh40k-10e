@@ -13992,12 +13992,12 @@ Designer’s Note: Place two Blacklight Marker Drone tokens next to this model, 
               <selectionEntryGroups>
                 <selectionEntryGroup name="Weapons" id="57b3-be86-424c-07a3" hidden="false" sortIndex="2">
                   <entryLinks>
-                    <entryLink import="true" name="Plasma rifle" hidden="false" id="3b76-4791-cbc3-2534" type="selectionEntry" targetId="a9c5-8f1f-cbad-f1d3" defaultAmount="1">
+                    <entryLink import="true" name="Plasma rifle" hidden="false" id="3b76-4791-cbc3-2534" type="selectionEntry" targetId="a9c5-8f1f-cbad-f1d3" defaultAmount="2">
                       <constraints>
                         <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="95e1-3e55-ff31-d9fd" includeChildSelections="false"/>
                       </constraints>
                     </entryLink>
-                    <entryLink import="true" name="Missile pod" hidden="false" id="0ea4-6323-6103-5675" type="selectionEntry" targetId="8290-c852-cce9-d50e" defaultAmount="1">
+                    <entryLink import="true" name="Missile pod" hidden="false" id="0ea4-6323-6103-5675" type="selectionEntry" targetId="8290-c852-cce9-d50e" defaultAmount="2">
                       <constraints>
                         <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="55c4-d121-849a-b484" includeChildSelections="false"/>
                       </constraints>
@@ -14284,7 +14284,7 @@ Designer’s Note: Place two Blacklight Marker Drone tokens next to this model, 
               <selectionEntryGroups>
                 <selectionEntryGroup name="Weapons" id="a1f2-2246-32c2-b3b7" hidden="false" sortIndex="1">
                   <entryLinks>
-                    <entryLink import="true" name="Burst cannon" hidden="false" id="e0ad-d61c-64db-98f5" type="selectionEntry" targetId="1790-25b7-8264-f6ba" defaultAmount="1">
+                    <entryLink import="true" name="Burst cannon" hidden="false" id="e0ad-d61c-64db-98f5" type="selectionEntry" targetId="1790-25b7-8264-f6ba" defaultAmount="2">
                       <constraints>
                         <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="6426-ec1b-5928-ccfb" includeChildSelections="false"/>
                         <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="2deb-f036-2e6d-44ac" includeChildSelections="false"/>
@@ -14293,7 +14293,7 @@ Designer’s Note: Place two Blacklight Marker Drone tokens next to this model, 
                         <modifier type="set" value="0" field="6426-ec1b-5928-ccfb"/>
                       </modifiers>
                     </entryLink>
-                    <entryLink import="true" name="T&apos;au flamer" hidden="false" id="aec0-6731-a113-a8c5" type="selectionEntry" targetId="6e8-cf2e-cedd-9028" defaultAmount="1">
+                    <entryLink import="true" name="T&apos;au flamer" hidden="false" id="aec0-6731-a113-a8c5" type="selectionEntry" targetId="6e8-cf2e-cedd-9028" defaultAmount="2">
                       <constraints>
                         <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="dca8-a8b9-d39d-8859" includeChildSelections="false"/>
                         <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="32f5-142d-f51d-edf8" includeChildSelections="false"/>

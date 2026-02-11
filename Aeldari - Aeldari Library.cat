@@ -37145,7 +37145,7 @@ For every 5 models in this unit, it can have 1 Aspect Shrine token.</characteris
         <cost name="Blackstone Fragments" typeId="ac6b-ced3-9b5e-9a6e" value="0"/>
       </costs>
       <selectionEntryGroups>
-        <selectionEntryGroup name="Scourge w/ special weapon" id="20a2-d24f-b741-9b5c" hidden="false" defaultSelectionEntryId="6e9b-38a8-e240-7a50" sortIndex="3">
+        <selectionEntryGroup name="Scourge w/ special weapon" id="20a2-d24f-b741-9b5c" hidden="false" defaultSelectionEntryId="5cb5-c3b8-a2b4-a368" sortIndex="3">
           <selectionEntries>
             <selectionEntry type="model" import="true" name="Scourge with Special Weapon" hidden="false" id="313f-6619-806f-c4c7">
               <selectionEntryGroups>

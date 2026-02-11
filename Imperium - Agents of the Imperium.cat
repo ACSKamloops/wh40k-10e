@@ -10017,7 +10017,7 @@ At the start of the Declare Battle Formations step, you can select one SISTERS O
             <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="51e3-a0fb-4968-e6c9"/>
           </constraints>
           <selectionEntryGroups>
-            <selectionEntryGroup name="Terminator Weapons" id="4a6a-3ff2-5307-ca55" hidden="false" defaultSelectionEntryId="ad9-d7f5-59b8-cd0d">
+            <selectionEntryGroup name="Terminator Weapons" id="4a6a-3ff2-5307-ca55" hidden="false" defaultSelectionEntryId="5e57-9fe0-7609-5b43">
               <selectionEntries>
                 <selectionEntry type="upgrade" import="true" name="Power fist &amp; storm bolter" hidden="false" id="5e57-9fe0-7609-5b43" publicationId="4115-3627-e608-39f6" page="16">
                   <constraints>
@@ -19003,7 +19003,7 @@ For the purposes of interacting with terrain features, all models in units with 
         </selectionEntry>
       </selectionEntries>
     </selectionEntryGroup>
-    <selectionEntryGroup name="Terminator Weapons" id="96e4-051e-b7c1-76e9" hidden="false" defaultSelectionEntryId="ad9-d7f5-59b8-cd0d">
+    <selectionEntryGroup name="Terminator Weapons" id="96e4-051e-b7c1-76e9" hidden="false" defaultSelectionEntryId="e81c-f4bc-7e09-dc42">
       <selectionEntries>
         <selectionEntry type="upgrade" import="true" name="Power fist &amp; storm bolter" hidden="false" id="e81c-f4bc-7e09-dc42" publicationId="4115-3627-e608-39f6" page="16">
           <constraints>
