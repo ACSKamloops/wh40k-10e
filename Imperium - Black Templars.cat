@@ -398,7 +398,7 @@ Water from the Stoup of Elucidation: Improve the Armour Penetration characterist
                 </selectionEntry>
               </selectionEntries>
               <selectionEntryGroups>
-                <selectionEntryGroup name="Pistol" hidden="false" id="5c24-7e8d-159e-8aad">
+                <selectionEntryGroup name="Pistol" hidden="false" id="5c24-7e8d-159e-8aad" defaultSelectionEntryId="97be-d160-ab37-1b1e">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="ea3b-c3b4-41d9-31c3"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="29fe-b9e4-7689-c848"/>

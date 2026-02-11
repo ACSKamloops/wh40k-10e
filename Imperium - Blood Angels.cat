@@ -3221,7 +3221,7 @@ horizontally away from all enemy models.</characteristic>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="3d50-350e-ded5-9729" includeChildSelections="false"/>
                   </constraints>
                 </selectionEntryGroup>
-                <selectionEntryGroup name="Ranged Weapon" id="7713-28f3-c9d1-4da1" hidden="false">
+                <selectionEntryGroup name="Ranged Weapon" id="7713-28f3-c9d1-4da1" hidden="false" defaultSelectionEntryId="f64-f4db-cee7-c077">
                   <constraints>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d34e-a394-d6b3-98c8" includeChildSelections="false"/>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="e994-820c-344c-7d8a" includeChildSelections="false"/>

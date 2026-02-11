@@ -18745,7 +18745,7 @@ It can also move through sections of terrain features that are more than 4&quot;
                 </profile>
               </profiles>
               <selectionEntryGroups>
-                <selectionEntryGroup name="Wargear" id="1cbd-52f1-12ea-746d" hidden="false">
+                <selectionEntryGroup name="Wargear" id="1cbd-52f1-12ea-746d" hidden="false" defaultSelectionEntryId="694a-1b90-4195-2d3f">
                   <selectionEntries>
                     <selectionEntry type="upgrade" import="true" name="Demiklaives" hidden="false" id="694a-1b90-4195-2d3f">
                       <profiles>

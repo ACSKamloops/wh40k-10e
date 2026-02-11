@@ -2388,7 +2388,7 @@
                     </selectionEntry>
                   </selectionEntries>
                 </selectionEntryGroup>
-                <selectionEntryGroup name="Laspistol" id="af41-4488-ba17-95bd" hidden="false">
+                <selectionEntryGroup name="Laspistol" id="af41-4488-ba17-95bd" hidden="false" defaultSelectionEntryId="566e-6598-488c-26a3">
                   <entryLinks>
                     <entryLink import="true" name="Bolt pistol" hidden="false" id="dd81-91f7-2b89-9579" type="selectionEntry" targetId="edce-b2da-b8c3-7c8b"/>
                     <entryLink import="true" name="Laspistol" hidden="false" id="566e-6598-488c-26a3" type="selectionEntry" targetId="2689-4c0e-cdfb-3e5"/>
